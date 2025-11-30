@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-[#fdf3e6] text-slate-900;
+  font-family: system-ui, sans-serif;
+}
